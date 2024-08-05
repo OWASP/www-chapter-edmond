@@ -1,7 +1,4 @@
-### Edmond Information
-* Provide Group Information
-
+### Chapter Information
+* 
 ### Social Links
-* [Meetup](#)
-
-
+* 
