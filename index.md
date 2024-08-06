@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Edmond
 tags: edmond
 region: North America
-country: United States
+country: USA
 meetup-group:
 
 ---
