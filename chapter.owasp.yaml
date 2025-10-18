@@ -1,0 +1,23 @@
+leaders:
+  - name: Jim Thavisouk
+    email: jim.thavisouk@owasp.org
+    github: thavisoukj1
+  - name: DeVante Parker
+    email: devante.parker@owasp.org
+location:
+  country: United States
+  country_code: US
+  region: Oklahoma
+  city: Edmond
+  latitude: 35.6571367
+  longitude: -97.4649038
+name: OWASP Edmond
+repositories:
+  - name: www-chapter-edmond
+    url: https://github.com/OWASP/www-chapter-edmond
+    description: OWASP Foundation web repository
+tags:
+  - edmond
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-edmond
