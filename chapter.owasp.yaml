@@ -18,6 +18,6 @@ repositories:
     description: OWASP Foundation web repository
 tags:
   - edmond
-  - custom-tag-1
-  - custom-tag-2
+  - oklahoma
+  - OWASP_Edmond
 website: https://owasp.org/www-chapter-edmond
